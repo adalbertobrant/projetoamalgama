@@ -1,4 +1,4 @@
-Dossie  AMALGAMA
+﻿Dossie  AMALGAMA
 
 A mistura de dois Super Heróis.
 
@@ -12,12 +12,10 @@ A mistura de dois Super Heróis.
 
  Poderes
 
-1-
-2-
-3-
+1- super força
+2- super velocidade
+3- magia infinita
 
 Fraquezas
 
-1-
-2-
-3-
+1- super burrice
