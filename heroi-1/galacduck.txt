@@ -15,7 +15,9 @@ A mistura de dois Super Heróis.
 1- super força
 2- super velocidade
 3- magia infinita
+4- super peido
 
 Fraquezas
 
 1- super burrice
+2- nao suporta perfumes
